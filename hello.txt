@@ -5,5 +5,4 @@ hello GitStudy!
 hello GitStudy!
 hello GitStudy!
 hello GitStudy!
-hello GitStudy!
 
